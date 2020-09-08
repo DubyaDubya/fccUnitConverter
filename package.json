@@ -1,0 +1,15 @@
+{
+  "name": "convertingunits",
+  "version": "1.0.0",
+  "description": "converting units, as specified in the FCC assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "William Marks Weiler",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
